@@ -1,2 +1,4 @@
 First line in b.txt
 Second line in b.txt
+Third line in b.txt
+fourth line in b.txt
